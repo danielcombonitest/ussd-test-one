@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DIyPaxB5nScymObKFwERsYpRMT+EOgyH9/FEOfD1udw=",
+  "Source": "Streamline.Ussd",
+  "BasePath": "_content/Streamline.Ussd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
